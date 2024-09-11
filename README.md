@@ -1,8 +1,18 @@
-# React + Vite
+# ToDO List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a lightweight web application developed using JavaScript and the React.js library. It enables users to input and add tasks to a dynamic to-do list. The application includes persistent data storage, ensuring that tasks remain saved and accessible even after the page is refreshed or closed.
 
-Currently, two official plugins are available:
+## Description
+This application is simple but has the most necessary features needed in a 'To Do' list 
+1. **Add Tasks**
+2. **Delete Tasks**
+3. **Set Task Higher in list**
+4. **Set Task Lower in list**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Why I built this Application
+1. To understand how to use React
+2. Understand and implement useState hook
+3. Understand and implement useEffect hook
+
+I developed this project to reinforce key concepts, such as the use of React hooks, in a simpler context. Additionally, I aimed to practice essential skills like adding projects to GitHub and writing documentation, both of which are crucial in the software development field. Working on a smaller project allowed me to solidify my understanding while honing other valuable skills.
+
